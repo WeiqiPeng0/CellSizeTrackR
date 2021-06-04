@@ -1,6 +1,6 @@
 
 ## CellSize.TrackR
-
+<img src="cst_demo.png" alt="drawing" width="500"/>
 
 #### Steps for graphing cell size
 
