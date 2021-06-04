@@ -2,7 +2,7 @@
 ## CellSize.TrackR
 
 
-### Steps for graphing cell size
+#### Steps for graphing cell size
 
 Pull the file swarmplot.R:
 
@@ -14,3 +14,6 @@ Wait a few seconds (or minutes), the plot should display in the 'Plots' window. 
 
 
 Or check out our online version https://croker.shinyapps.io/cellsizetrackr
+
+#### Contact
+For questions (or suggestions and improvements), please contact us bcroker@ucsd.edu or wep012@ucsd.edu.  We welcome your feedback!
