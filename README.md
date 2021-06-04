@@ -12,7 +12,7 @@
 - Wait a few seconds (or minutes if the dataset is large), the plot should display in the 'Plots' window. Rstudio has in-built function to download the plot.
 
 
-Or check out our online version https://croker.shinyapps.io/cellsizetrackr
+Or check out our online shiny version https://croker.shinyapps.io/cellsizetrackr. The code is in app.R.
 
 #### Contact
 For questions (or suggestions and improvements), please contact us bcroker@ucsd.edu or wep012@ucsd.edu.  We welcome your feedback!
