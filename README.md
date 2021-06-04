@@ -1,8 +1,8 @@
 
-##CellSize.TrackR
+## CellSize.TrackR
 
 
-###Steps for graphing cell size
+### Steps for graphing cell size
 
 Pull the file swarmplot.R:
 
